@@ -1,0 +1,11 @@
+# ninja log v5
+2	2452	6731150032060897	CMakeFiles/graphs.dir/main.cpp.obj	23ffe99d9cc9e49c
+2458	2839	6731150035893886	graphs.exe	7aca4f69c3a8e7f5
+6	2757	6731151304513085	CMakeFiles/graphs.dir/main.cpp.obj	23ffe99d9cc9e49c
+2759	3063	6731151307471604	graphs.exe	7aca4f69c3a8e7f5
+8	2974	6731151733703495	CMakeFiles/graphs.dir/main.cpp.obj	23ffe99d9cc9e49c
+2976	3802	6731151742246618	graphs.exe	7aca4f69c3a8e7f5
+10	9541	6731152169682473	CMakeFiles/graphs.dir/main.cpp.obj	23ffe99d9cc9e49c
+9543	9924	6731152173405188	graphs.exe	7aca4f69c3a8e7f5
+43	3234	6733018139123886	CMakeFiles/graphs.dir/main.cpp.obj	23ffe99d9cc9e49c
+3239	3891	6733018145668543	graphs.exe	7aca4f69c3a8e7f5
